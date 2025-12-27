@@ -10,11 +10,9 @@
 
 ## Introduction / 專案介紹
 
-**atttescore** is the core execution engine for `attesintel`.  
-It handles CPU emulation, ARM64 instruction decoding, and execution.
-
-**atttescore** 是 `attesintel` 的核心引擎，  
-負責 CPU 模擬、ARM64 指令解碼與執行。
+**attescore**
+The project attescore was inspired by rosetta, and the name attes is a reversal of setta.
+本專案attescore，靈感來自於rosetta，名稱開頭attes由setta反轉而名為attescore。
 
 It is intended for educational and research purposes.  
 Future plans include GUI support, JIT execution, and extended instruction coverage.
