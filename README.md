@@ -4,7 +4,7 @@
 > This project is still in development. Please use with caution.  
 > 本專案仍在開發中，請小心使用。
 
-> /logo.png
+> logo.PNG
 
 ---
 
